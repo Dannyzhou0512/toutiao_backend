@@ -20,31 +20,31 @@
 
 首页支持新闻分类切换、新闻列表展示、新闻来源与阅读量展示，并在右侧显示新闻缩略图。
 
-![首页新闻列表](docs/images/01-home-news.png)
+![首页新闻列表](01-home-news.png)
 
 ### 全部分类
 
 分类页集中展示新闻分类入口，用户可以快速进入头条、社会、国内、国际、娱乐、体育、科技和财经等频道。
 
-![全部分类](docs/images/02-category-list.png)
+![全部分类](02-category-list.png)
 
 ### AI 问答
 
 AI 问答页提供基础对话交互，用户可以输入问题并查看助手回复。
 
-![AI问答](docs/images/03-ai-chat.png)
+![AI问答](03-ai-chat.png)
 
 ### 我的收藏
 
 收藏页展示用户已收藏的新闻内容，支持查看收藏时间，并可对单条收藏进行删除。
 
-![我的收藏](docs/images/04-favorites.png)
+![我的收藏](04-favorites.png)
 
 ### 浏览历史
 
 浏览历史页记录用户访问过的新闻，支持查看浏览时间，并可删除单条记录或清空历史。
 
-![浏览历史](docs/images/05-history.png)
+![浏览历史](05-history.png)
 
 ## 技术栈
 
